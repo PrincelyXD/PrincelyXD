@@ -1,6 +1,12 @@
-Hey there! I'm Princely Kwekowe, a passionate software developer and lifelong learner with a knack for creating innovative solutions.
-Was gonna add assembly to the list, but i only went 3 minutes deep into the tutorial lol, here are my prized weapons though
+ Hi there 👋
+I'm a full-stack developer with a focus on front-end development. I enjoy creating interactive and user-friendly applications!
 
+- 🔭 Currently working on: [Reapfold Real Estate Solutions](https://reapfold.vercel.app/)
+- 🌱 Learning: Firebase Authentication and TypeScript, ReactRouter6 mastery
+- 💬 Ask me about: React, Tailwind CSS, and Open Source
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrincelyXD&layout=compact&theme=tokyonight)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,nodejs,php,tailwind,git,github)](https://skillicons.dev)
 
 Let's connect and create something amazing together!
