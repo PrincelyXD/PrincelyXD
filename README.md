@@ -6,8 +6,7 @@ I'm a full-stack developer with a focus on front-end development. I enjoy creati
 - 💬 Ask me about: React, Tailwind CSS, and Open Source
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,nodejs,php,tailwind,git,github,gitlabs,firebase,expo)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,nodejs,php,tailwind,git,github,gitlabs)](https://skillicons.dev)
 
 
 
