@@ -1,8 +1,8 @@
  Hi there 👋
 I'm a full-stack developer with a focus on front-end development. I enjoy creating interactive and user-friendly applications!
 
-- 🔭 Currently working on: [Reapfold Real Estate Solutions](https://reapfold.com/)
-- 🌱 Learning: Firebase Authentication and TypeScript, ReactRouter6 mastery
+- 🔭 Currently maintaining : [Reapfold Real Estate Solutions](https://reapfold.com/)
+- 🌱 Learning: React Native
 - 💬 Ask me about: React, Tailwind CSS, and Open Source
 
 
