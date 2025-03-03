@@ -6,10 +6,8 @@ I'm a full-stack developer with a focus on front-end development. I enjoy creati
 - 💬 Ask me about: React, Tailwind CSS, and Open Source
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrincelyXD&layout=compact&theme=tokyonight)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,nodejs,php,tailwind,git,github,gitlabs)](https://skillicons.dev)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,nodejs,php,tailwind,git,github,gitlabs,firebase,expo)](https://skillicons.dev)
+
 
 
 
